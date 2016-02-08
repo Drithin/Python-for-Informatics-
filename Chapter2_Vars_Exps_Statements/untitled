@@ -1,2 +1,0 @@
-input = raw_input('Enter yur name /n')
-print (Hello input)
