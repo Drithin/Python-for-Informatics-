@@ -1,0 +1,3 @@
+What is purpose of the "def" keyword in Python?
+
+e) None of them are true
